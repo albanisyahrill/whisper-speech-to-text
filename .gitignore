@@ -1,0 +1,4 @@
+/deploy/Final-result/*
+/.ipynb_checkpoints/*
+/deploy/venv/*
+/deploy/__pycache__/*
