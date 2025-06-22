@@ -1,4 +1,3 @@
-```markdown
 # Speech-to-Text dengan Whisper + Streamlit Deploy
 
 ## Deskripsi Proyek
@@ -7,21 +6,19 @@ Notebook ini membangun pipeline transkripsi audio ke teks menggunakan model Whis
 
 ## Struktur Proyek
 ```
-
 ├── deploy/ # Folder deployment local
 │ ├── app.py # Aplikasi streamlit
 │ └── preprocess.py / # Modul untuk melakukan preprocessing input audio
 ├── .gitignore # File untuk membuat list file dan folder untuk diabaikan
 ├── Whisper_ASR.ipynb # Notebook utama pembuatan dan uji model Whisper
-
-````
+```
 
 ## Instalasi
 1. Clone repositori:
 ```bash
 git clone <repo-url>
 cd <repo-folder>
-````
+```
 
 2. Buat dan aktifkan virtual environment
 
